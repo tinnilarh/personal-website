@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# personal-website
-=======
 # Tin Nilar Hlaing — Personal Website
 
 A static portfolio site showcasing engineering skills, experience, and contact info. Hosted for free on [GitHub Pages](https://pages.github.com/).
